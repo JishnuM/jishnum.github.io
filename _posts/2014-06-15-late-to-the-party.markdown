@@ -2,6 +2,7 @@
 layout: post
 title: Late to the party
 date: '2014-06-15 12:57:07'
+author: Jishnu
 tags:
 - blogging
 ---

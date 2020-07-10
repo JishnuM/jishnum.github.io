@@ -2,6 +2,7 @@
 layout: post
 title: On Execution
 date: '2016-09-06 03:25:26'
+author: Jishnu
 ---
 
 At the launch of [The Birthday Book](http://thebirthdaybook.sg/), the editor paid Aaron Maniam<sup>[1](#1)</sup> what I considered the greatest compliment ever. He said, and I paraphrase, that *"Aaron's the guy to go to if you want to actually realise one of your half-baked ideas"*. That's so beautiful.

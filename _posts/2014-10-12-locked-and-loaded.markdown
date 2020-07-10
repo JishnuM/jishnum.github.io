@@ -2,7 +2,9 @@
 layout: post
 title: Locked and Loaded
 date: '2014-10-12 17:09:17'
+author: Jishnu
 tags:
+- university
 - cs3216
 ---
 

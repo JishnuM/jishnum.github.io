@@ -2,6 +2,7 @@
 layout: post
 title: Echoes from a Distant Past
 date: '2016-09-20 16:37:41'
+author: Jishnu
 ---
 
 I wrote the essay below nearly 8(!) years ago. Weird how much I've foreshadowed my concerns near  graduation.

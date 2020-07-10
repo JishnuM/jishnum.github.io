@@ -2,6 +2,7 @@
 layout: post
 title: Looking forward - CS3216
 date: '2014-08-10 10:11:04'
+author: Jishnu
 tags:
 - university
 - cs3216

@@ -2,6 +2,7 @@
 layout: post
 title: Adrenaline Rush
 date: '2014-08-29 20:18:45'
+author: Jishnu
 tags:
 - university
 - cs3216

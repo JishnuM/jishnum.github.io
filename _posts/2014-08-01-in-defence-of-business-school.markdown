@@ -2,6 +2,7 @@
 layout: post
 title: In defence of Business school
 date: '2014-08-01 07:04:24'
+author: Jishnu
 tags:
 - university
 - education

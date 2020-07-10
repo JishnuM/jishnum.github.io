@@ -3,6 +3,7 @@ layout: post
 title: Design Blues
 image: "/content/images/2014/11/NUSCloudHome.PNG"
 date: '2014-11-04 03:45:02'
+author: Jishnu
 tags:
 - university
 - cs3216

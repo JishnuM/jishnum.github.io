@@ -2,6 +2,7 @@
 layout: post
 title: CS3216 Thoughts - The First Lecture, The Last Lecture
 date: '2014-08-21 06:54:11'
+author: Jishnu
 tags:
 - university
 - cs3216

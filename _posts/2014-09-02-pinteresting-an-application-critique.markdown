@@ -2,6 +2,7 @@
 layout: post
 title: Pinteresting - An Application Critique
 date: '2014-09-02 16:00:24'
+author: Jishnu
 tags:
 - university
 - cs3216

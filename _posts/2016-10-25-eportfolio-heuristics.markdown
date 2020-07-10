@@ -2,6 +2,7 @@
 layout: post
 title: 'E-Portfolio - Heuristics'
 date: '2016-10-25 00:00:00'
+author: Jishnu
 tags:
 - university
 - usr4002

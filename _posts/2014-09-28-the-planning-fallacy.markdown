@@ -2,6 +2,7 @@
 layout: post
 title: The Planning Fallacy
 date: '2014-09-28 16:55:02'
+author: Jishnu
 ---
 
 It is pretty epic how the human mind (read: me!) manages to both 'know' something as a fact and yet not internalize its relevance. A rather pertinent instance of this is with regards to the planning fallacy, as popularised by psychologist Daniel Kahneman.

@@ -2,6 +2,7 @@
 layout: post
 title: The Chicken and the Egg
 date: '2014-09-19 15:22:36'
+author: Jishnu
 tags:
 - university
 - computing
