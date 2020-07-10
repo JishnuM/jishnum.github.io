@@ -15,19 +15,19 @@ With this background, I am pretty proud of my design 'accomplishments' over the 
 
 In great part, of course, it was because I walked well-trodden paths. I scoured the web for good-looking (and free) CSS templates and finally found a couple to my taste. Following that, I modified both to fit in with our application's theme and ethos and also to ensure that they fit in with each other (instead of looking like two separate themes). The end result:
 
-![homepage](/content/images/2014/11/nuscloud.PNG)
+![homepage](/img/nuscloud.png)
 
-![homepage-2](/content/images/2014/11/NUSCloudHome2.PNG)
+![homepage-2](/img/NUSCloudHome2.png)
 
-![account](/content/images/2014/11/nuscloudAccount.PNG)
+![account](/img/nuscloudAccount.png)
 
-![loginflow](/content/images/2014/11/loginFlow.png)
+![loginflow](/img/loginFlow.png)
 
 Of course, after making everything - I realised that my designs did not only owe a lot to the templates but also to existing websites which have influenced my idea of good design. Somehow, extremely unintentionally / subconsciously, I had arrived close to designs of applications I use on a regular basis.
 
-![do](/content/images/2014/11/cloud-digitalocean.PNG)
+![do](/img/cloud-digitalocean.png)
 
-![trello](/content/images/2014/11/nuscloud-trello.PNG)
+![trello](/img/nuscloud-trello.png)
 
 Not sure if this is a good sign or bad.
 
