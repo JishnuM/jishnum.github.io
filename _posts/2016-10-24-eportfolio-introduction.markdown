@@ -2,6 +2,9 @@
 layout: post
 title: 'E-Portfolio - An Introduction'
 date: '2016-10-24 00:00:00'
+tags:
+- university
+- usr4002
 ---
 
 *This post was the introduction to my final semester e-portfolio: a linked series of posts on a common theme*
