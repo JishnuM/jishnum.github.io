@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Blog"
 permalink: /blog/
+layout: default
 ---
 
 {% for post in site.posts %}
